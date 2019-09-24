@@ -1,7 +1,3 @@
-# Folder containing pycharms project
-venv/
-.idea/
-
 # Prerequisites
 *.d
 
